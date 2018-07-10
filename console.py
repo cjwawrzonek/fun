@@ -1,3 +1,9 @@
+#!/usr/bin/env python
+"""
+Fun little interactive console app. This is also kinda useful as a skeleton
+for making CLI's. I've used a similar structure a few times for making
+interactive testing environments.
+"""
 import sys
 
 
