@@ -6,6 +6,23 @@ interactive testing environments.
 """
 import sys
 
+HELP_STRING = """A fun little interactive console app. Implements very basic bash directory commands.
+commands:
+    -cd:       		change directory.
+
+    -pwd:			print working diretory.
+
+    -mkdir:			make a new directory.
+
+    -rm:			remove a directory.
+
+    -ls:			list the contents of the current directory.
+
+    -h, help:       show this help string.
+
+    -q, quit:		close the console.
+"""
+
 
 class Directory(object):
 	def __init__(self, name, parent):
@@ -22,6 +39,8 @@ class Console(object):
 
 		self.commands = {
 			'cd': self.cd,
+			'h': self.help,
+			'help': self.help,
 			'pwd': self.pwd,
 			'mkdir': self.mkdir,
 			'rm': self.rm,
@@ -62,6 +81,10 @@ class Console(object):
 		for name in dir_names:
 			dir_string = dir_string + name + '/'
 		print dir_string
+
+	def help(self, _):
+		"""Print the help string."""
+		print HELP_STRING
 
 	def mkdir(self, inpt):
 		"""Make a new directory for each input after the command."""
