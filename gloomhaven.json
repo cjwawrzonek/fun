@@ -1,0 +1,1554 @@
+{
+  "nodes": [
+    {
+      "data": {
+        "id": "1",
+        "name": "#1 Black Barrow",
+        "pages": [
+          3
+        ],
+        "status": "complete",
+        "notes": "",
+        "activePage": 3,
+        "imageUrl": "assets/scenarios/3.jpg",
+        "locked": ""
+      },
+      "position": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "data": {
+        "id": "2",
+        "name": "#2 Barrow Lair",
+        "pages": [
+          4,
+          5
+        ],
+        "status": "complete",
+        "notes": "",
+        "activePage": 4,
+        "imageUrl": "assets/scenarios/4.jpg",
+        "locked": ""
+      },
+      "position": {
+        "x": 0,
+        "y": 100
+      }
+    },
+    {
+      "data": {
+        "id": "3",
+        "name": "#3 Inox Encampment",
+        "pages": [
+          5,
+          6
+        ],
+        "status": "complete",
+        "notes": "",
+        "activePage": 5,
+        "imageUrl": "assets/scenarios/5.jpg",
+        "locked": ""
+      },
+      "position": {
+        "x": -150,
+        "y": 200
+      }
+    },
+    {
+      "data": {
+        "id": "4",
+        "name": "#4 Crypt of the Damned",
+        "pages": [
+          7
+        ],
+        "status": "complete",
+        "notes": "",
+        "activePage": 7,
+        "imageUrl": "assets/scenarios/7.jpg",
+        "locked": ""
+      },
+      "position": {
+        "x": 540,
+        "y": 200
+      }
+    },
+    {
+      "data": {
+        "id": "5",
+        "name": "#5 Ruinous Crypt",
+        "pages": [
+          8
+        ],
+        "status": "complete",
+        "notes": "",
+        "activePage": 8,
+        "imageUrl": "assets/scenarios/8.jpg",
+        "locked": ""
+      },
+      "position": {
+        "x": 700,
+        "y": 300
+      }
+    },
+    {
+      "data": {
+        "id": "6",
+        "name": "#6 Decaying Crypt",
+        "pages": [
+          9,
+          10
+        ],
+        "status": "incomplete",
+        "notes": "",
+        "activePage": 9,
+        "imageUrl": "assets/scenarios/9.jpg"
+      },
+      "position": {
+        "x": 400,
+        "y": 300
+      }
+    },
+    {
+      "data": {
+        "id": "7",
+        "name": "#7 Vibrant Grotto",
+        "pages": [
+          10,
+          11
+        ],
+        "status": "incomplete",
+        "notes": "",
+        "activePage": 10,
+        "imageUrl": "assets/scenarios/10.jpg"
+      },
+      "position": {
+        "x": 100,
+        "y": 400
+      }
+    },
+    {
+      "data": {
+        "id": "8",
+        "name": "#8 Gloomhaven Warehouse",
+        "pages": [
+          12
+        ],
+        "status": "complete",
+        "notes": "",
+        "activePage": 12,
+        "imageUrl": "assets/scenarios/12.jpg",
+        "locked": ""
+      },
+      "position": {
+        "x": 175,
+        "y": 300
+      }
+    },
+    {
+      "data": {
+        "id": "9",
+        "name": "#9 Diamond Mine",
+        "pages": [
+          13
+        ],
+        "status": "incomplete",
+        "notes": "",
+        "activePage": 13,
+        "imageUrl": "assets/scenarios/13.jpg"
+      },
+      "position": {
+        "x": -750,
+        "y": 300
+      }
+    },
+    {
+      "data": {
+        "id": "11",
+        "name": "#11 Gloomhaven Square A",
+        "pages": [
+          15,
+          16
+        ],
+        "status": "hidden",
+        "notes": ""
+      },
+      "position": {
+        "x": -850,
+        "y": 400
+      }
+    },
+    {
+      "data": {
+        "id": "12",
+        "name": "#12 Gloomhaven Square B",
+        "pages": [
+          16,
+          17
+        ],
+        "status": "hidden",
+        "notes": ""
+      },
+      "position": {
+        "x": -600,
+        "y": 400
+      }
+    },
+    {
+      "data": {
+        "id": "10",
+        "name": "#10 Plane of Elemental Power",
+        "pages": [
+          14
+        ],
+        "status": "complete",
+        "notes": "",
+        "activePage": 14,
+        "imageUrl": "assets/scenarios/14.jpg"
+      },
+      "position": {
+        "x": 700,
+        "y": 700
+      }
+    },
+    {
+      "data": {
+        "id": "13",
+        "name": "#13 Temple of the Seer",
+        "pages": [
+          18
+        ],
+        "status": "complete",
+        "notes": "",
+        "activePage": 18,
+        "imageUrl": "assets/scenarios/18.jpg"
+      },
+      "position": {
+        "x": -86,
+        "y": 328
+      }
+    },
+    {
+      "data": {
+        "id": "14",
+        "name": "#14 Frozen Hollow",
+        "pages": [
+          19,
+          20
+        ],
+        "status": "complete",
+        "notes": "",
+        "activePage": 19,
+        "imageUrl": "assets/scenarios/19.jpg",
+        "locked": ""
+      },
+      "position": {
+        "x": 200,
+        "y": 700
+      }
+    },
+    {
+      "data": {
+        "id": "19",
+        "name": "#19 Forgotten Crypt",
+        "pages": [
+          25,
+          26
+        ],
+        "status": "incomplete",
+        "notes": "",
+        "activePage": 25,
+        "imageUrl": "assets/scenarios/25.jpg"
+      },
+      "position": {
+        "x": 450,
+        "y": 700
+      }
+    },
+    {
+      "data": {
+        "id": "27",
+        "name": "#27 Ruinous Rift",
+        "pages": [
+          37
+        ],
+        "status": "hidden",
+        "notes": ""
+      },
+      "position": {
+        "x": 450,
+        "y": 790
+      }
+    },
+    {
+      "data": {
+        "id": "21",
+        "name": "#21 Infernal Throne",
+        "pages": [
+          28,
+          29
+        ],
+        "status": "incomplete",
+        "notes": ""
+      },
+      "position": {
+        "x": 629,
+        "y": 790
+      }
+    },
+    {
+      "data": {
+        "id": "22",
+        "name": "#22 Temple of Elements",
+        "pages": [
+          29,
+          30
+        ],
+        "status": "incomplete",
+        "notes": ""
+      },
+      "position": {
+        "x": 769,
+        "y": 872
+      }
+    },
+    {
+      "data": {
+        "id": "20",
+        "name": "#20 Necromancer's Sanctum",
+        "pages": [
+          26,
+          27
+        ],
+        "status": "hidden",
+        "notes": ""
+      },
+      "position": {
+        "x": 93,
+        "y": 560
+      }
+    },
+    {
+      "data": {
+        "id": "28",
+        "name": "#28 Outer Ritual Chamber",
+        "pages": [
+          38
+        ],
+        "status": "hidden",
+        "notes": ""
+      },
+      "position": {
+        "x": -322,
+        "y": 515
+      }
+    },
+    {
+      "data": {
+        "id": "29",
+        "name": "#29 Sanctuary of Gloom",
+        "pages": [
+          39
+        ],
+        "status": "hidden",
+        "notes": ""
+      },
+      "position": {
+        "x": -322,
+        "y": 586
+      }
+    },
+    {
+      "data": {
+        "id": "15",
+        "name": "#15 Shrine of Strength",
+        "pages": [
+          20,
+          21
+        ],
+        "status": "incomplete",
+        "notes": ""
+      },
+      "position": {
+        "x": -188,
+        "y": 460
+      }
+    },
+    {
+      "data": {
+        "id": "17",
+        "name": "#17 Lost Island",
+        "pages": [
+          23
+        ],
+        "status": "hidden",
+        "notes": ""
+      },
+      "position": {
+        "x": -55,
+        "y": 490
+      }
+    },
+    {
+      "data": {
+        "id": "18",
+        "name": "#18 Abandoned Sewers",
+        "pages": [
+          24
+        ],
+        "status": "hidden",
+        "notes": ""
+      },
+      "position": {
+        "x": -200,
+        "y": 700
+      }
+    },
+    {
+      "data": {
+        "id": "16",
+        "name": "#16 Mountain Pass",
+        "pages": [
+          22
+        ],
+        "status": "hidden",
+        "notes": ""
+      },
+      "position": {
+        "x": -730,
+        "y": 680
+      }
+    },
+    {
+      "data": {
+        "id": "24",
+        "name": "#24 Echo Chamber",
+        "pages": [
+          32,
+          33
+        ],
+        "status": "hidden",
+        "notes": ""
+      },
+      "position": {
+        "x": -875,
+        "y": 766
+      }
+    },
+    {
+      "data": {
+        "id": "25",
+        "name": "#25 Icecrag Ascent",
+        "pages": [
+          34,
+          35
+        ],
+        "status": "hidden",
+        "notes": ""
+      },
+      "position": {
+        "x": -576,
+        "y": 766
+      }
+    },
+    {
+      "data": {
+        "id": "30",
+        "name": "#30 Shrine of the Depths",
+        "pages": [
+          40,
+          41
+        ],
+        "status": "hidden",
+        "notes": ""
+      },
+      "position": {
+        "x": -1000,
+        "y": 856
+      }
+    },
+    {
+      "data": {
+        "id": "42",
+        "name": "#42 Realm of the Voice",
+        "pages": [
+          56
+        ],
+        "status": "hidden",
+        "notes": ""
+      },
+      "position": {
+        "x": -1000,
+        "y": 948
+      }
+    },
+    {
+      "data": {
+        "id": "32",
+        "name": "#32 Decrepit Wood",
+        "pages": [
+          43
+        ],
+        "status": "hidden",
+        "notes": ""
+      },
+      "position": {
+        "x": -764,
+        "y": 856
+      }
+    },
+    {
+      "data": {
+        "id": "23",
+        "name": "#23 Deep Ruins",
+        "pages": [
+          31,
+          32
+        ],
+        "status": "hidden",
+        "notes": ""
+      },
+      "position": {
+        "x": -385,
+        "y": 790
+      }
+    },
+    {
+      "data": {
+        "id": "43",
+        "name": "#43 Drake Nest",
+        "pages": [
+          57,
+          58
+        ],
+        "status": "hidden",
+        "notes": ""
+      },
+      "position": {
+        "x": -200,
+        "y": 790
+      }
+    },
+    {
+      "data": {
+        "id": "26",
+        "name": "#26 Ancient Cistern",
+        "pages": [
+          35,
+          36
+        ],
+        "status": "hidden",
+        "notes": ""
+      },
+      "position": {
+        "x": -13,
+        "y": 790
+      }
+    },
+    {
+      "data": {
+        "id": "33",
+        "name": "#33 Savvas Armory",
+        "pages": [
+          44
+        ],
+        "status": "hidden",
+        "notes": ""
+      },
+      "position": {
+        "x": -618,
+        "y": 896
+      }
+    },
+    {
+      "data": {
+        "id": "34",
+        "name": "#34 Scorched Summit",
+        "pages": [
+          45
+        ],
+        "status": "hidden",
+        "notes": ""
+      },
+      "position": {
+        "x": -436,
+        "y": 978
+      }
+    },
+    {
+      "data": {
+        "id": "40",
+        "name": "#40 Ancient Defense Network",
+        "pages": [
+          53,
+          54
+        ],
+        "status": "hidden",
+        "notes": ""
+      },
+      "position": {
+        "x": -764,
+        "y": 972
+      }
+    },
+    {
+      "data": {
+        "id": "41",
+        "name": "#41 Timeworn Tomb",
+        "pages": [
+          54,
+          55
+        ],
+        "status": "hidden",
+        "notes": ""
+      },
+      "position": {
+        "x": -764,
+        "y": 1054
+      }
+    },
+    {
+      "data": {
+        "id": "31",
+        "name": "#31 Plane of Night",
+        "pages": [
+          41,
+          42
+        ],
+        "status": "hidden",
+        "notes": ""
+      },
+      "position": {
+        "x": 175,
+        "y": 882
+      }
+    },
+    {
+      "data": {
+        "id": "39",
+        "name": "#39 Treacherous Divide",
+        "pages": [
+          51,
+          52
+        ],
+        "status": "hidden",
+        "notes": ""
+      },
+      "position": {
+        "x": -75,
+        "y": 956
+      }
+    },
+    {
+      "data": {
+        "id": "37",
+        "name": "#37 Doom Trench",
+        "pages": [
+          49
+        ],
+        "status": "hidden",
+        "notes": ""
+      },
+      "position": {
+        "x": 175,
+        "y": 956
+      }
+    },
+    {
+      "data": {
+        "id": "38",
+        "name": "#38 Slave Pens",
+        "pages": [
+          50,
+          51
+        ],
+        "status": "hidden",
+        "notes": ""
+      },
+      "position": {
+        "x": 387,
+        "y": 956
+      }
+    },
+    {
+      "data": {
+        "id": "46",
+        "name": "#46 Nightmare Peak",
+        "pages": [
+          61
+        ],
+        "status": "hidden",
+        "notes": ""
+      },
+      "position": {
+        "x": -75,
+        "y": 1036
+      }
+    },
+    {
+      "data": {
+        "id": "47",
+        "name": "#47 Lair of the Unseeing Eye",
+        "pages": [
+          62
+        ],
+        "status": "hidden",
+        "notes": ""
+      },
+      "position": {
+        "x": 175,
+        "y": 1036
+      }
+    },
+    {
+      "data": {
+        "id": "48",
+        "name": "#48 Shadow World",
+        "pages": [
+          63
+        ],
+        "status": "hidden",
+        "notes": ""
+      },
+      "position": {
+        "x": 387,
+        "y": 1036
+      }
+    },
+    {
+      "data": {
+        "id": "44",
+        "name": "#44 Tribal Assault",
+        "pages": [
+          58,
+          59
+        ],
+        "status": "hidden",
+        "notes": ""
+      },
+      "position": {
+        "x": 557,
+        "y": 956
+      }
+    },
+    {
+      "data": {
+        "id": "51",
+        "name": "#51 The Void",
+        "pages": [
+          66,
+          67
+        ],
+        "status": "hidden",
+        "notes": ""
+      },
+      "position": {
+        "x": 175,
+        "y": 1164
+      }
+    },
+    {
+      "data": {
+        "id": "35",
+        "name": "#35 Gloomhaven Battlements A",
+        "pages": [
+          46,
+          47
+        ],
+        "status": "hidden",
+        "notes": ""
+      },
+      "position": {
+        "x": 731,
+        "y": 1020
+      }
+    },
+    {
+      "data": {
+        "id": "36",
+        "name": "#36 Gloomhaven Battlements B",
+        "pages": [
+          47,
+          48
+        ],
+        "status": "hidden",
+        "notes": ""
+      },
+      "position": {
+        "x": 921,
+        "y": 990
+      }
+    },
+    {
+      "data": {
+        "id": "45",
+        "name": "#45 Rebel Swamp",
+        "pages": [
+          60
+        ],
+        "status": "hidden",
+        "notes": ""
+      },
+      "position": {
+        "x": 731,
+        "y": 1106
+      }
+    },
+    {
+      "data": {
+        "id": "49",
+        "name": "#49 Rebel's Stand",
+        "pages": [
+          64
+        ],
+        "status": "hidden",
+        "notes": ""
+      },
+      "position": {
+        "x": 675,
+        "y": 1196
+      }
+    },
+    {
+      "data": {
+        "id": "50",
+        "name": "#50 Ghost Forrest",
+        "pages": [
+          65,
+          66
+        ],
+        "status": "hidden",
+        "notes": ""
+      },
+      "position": {
+        "x": 927,
+        "y": 1196
+      }
+    },
+    {
+      "data": {
+        "id": "52",
+        "name": "#52 Noxious Cellar",
+        "pages": [
+          68,
+          69
+        ],
+        "status": "incomplete",
+        "notes": "",
+        "locked": "true"
+      },
+      "position": {
+        "x": -1000,
+        "y": 1350
+      }
+    },
+    {
+      "data": {
+        "id": "53",
+        "name": "#53 Crypt Basement",
+        "pages": [
+          69,
+          70
+        ],
+        "status": "hidden",
+        "notes": ""
+      },
+      "position": {
+        "x": -1000,
+        "y": 1450
+      }
+    },
+    {
+      "data": {
+        "id": "54",
+        "name": "#54 Palace of Ice",
+        "pages": [
+          71
+        ],
+        "status": "hidden",
+        "notes": ""
+      },
+      "position": {
+        "x": -1000,
+        "y": 1550
+      }
+    },
+    {
+      "data": {
+        "id": "55",
+        "name": "#55 Foggy Thicket",
+        "pages": [
+          72
+        ],
+        "status": "incomplete",
+        "notes": "",
+        "locked": "true"
+      },
+      "position": {
+        "x": -800,
+        "y": 1350
+      }
+    },
+    {
+      "data": {
+        "id": "56",
+        "name": "#56 Bandit's Wood",
+        "pages": [
+          73
+        ],
+        "status": "hidden",
+        "notes": ""
+      },
+      "position": {
+        "x": -800,
+        "y": 1450
+      }
+    },
+    {
+      "data": {
+        "id": "57",
+        "name": "#57 Investigation",
+        "pages": [
+          74
+        ],
+        "status": "incomplete",
+        "notes": "",
+        "locked": "true"
+      },
+      "position": {
+        "x": -600,
+        "y": 1350
+      }
+    },
+    {
+      "data": {
+        "id": "58",
+        "name": "#58 Bloody Shack",
+        "pages": [
+          75
+        ],
+        "status": "hidden",
+        "notes": ""
+      },
+      "position": {
+        "x": -600,
+        "y": 1450
+      }
+    },
+    {
+      "data": {
+        "id": "59",
+        "name": "#59 Forgotten Grove",
+        "pages": [
+          76
+        ],
+        "status": "incomplete",
+        "notes": "",
+        "locked": "true"
+      },
+      "position": {
+        "x": -400,
+        "y": 1350
+      }
+    },
+    {
+      "data": {
+        "id": "60",
+        "name": "#60 Alchemy Lab",
+        "pages": [
+          77
+        ],
+        "status": "hidden",
+        "notes": ""
+      },
+      "position": {
+        "x": -400,
+        "y": 1450
+      }
+    },
+    {
+      "data": {
+        "id": "61",
+        "name": "#61 Fading Lighthouse",
+        "pages": [
+          78,
+          79
+        ],
+        "status": "incomplete",
+        "notes": "",
+        "locked": "true"
+      },
+      "position": {
+        "x": -200,
+        "y": 1350
+      }
+    },
+    {
+      "data": {
+        "id": "62",
+        "name": "#62 Pit of Souls",
+        "pages": [
+          80
+        ],
+        "status": "hidden",
+        "notes": ""
+      },
+      "position": {
+        "x": -200,
+        "y": 1450
+      }
+    },
+    {
+      "data": {
+        "id": "63",
+        "name": "#63 Magma Pit",
+        "pages": [
+          81
+        ],
+        "status": "incomplete",
+        "notes": "",
+        "locked": "true"
+      },
+      "position": {
+        "x": 0,
+        "y": 1350
+      }
+    },
+    {
+      "data": {
+        "id": "64",
+        "name": "#64 Under Water Lagoon",
+        "pages": [
+          82
+        ],
+        "status": "incomplete",
+        "notes": "",
+        "locked": "true"
+      },
+      "position": {
+        "x": 0,
+        "y": 1450
+      }
+    },
+    {
+      "data": {
+        "id": "65",
+        "name": "#65 Sulfur Mine",
+        "pages": [
+          83,
+          84
+        ],
+        "status": "complete",
+        "notes": "",
+        "locked": "false",
+        "activePage": 83,
+        "imageUrl": "assets/scenarios/83.jpg"
+      },
+      "position": {
+        "x": 220,
+        "y": 1350
+      }
+    },
+    {
+      "data": {
+        "id": "66",
+        "name": "#66 Clockwork Cove",
+        "pages": [
+          84,
+          85
+        ],
+        "status": "incomplete",
+        "notes": "",
+        "locked": "true"
+      },
+      "position": {
+        "x": 220,
+        "y": 1450
+      }
+    },
+    {
+      "data": {
+        "id": "67",
+        "name": "#67 Arcane Library",
+        "pages": [
+          86
+        ],
+        "status": "incomplete",
+        "notes": "",
+        "locked": "true"
+      },
+      "position": {
+        "x": 425,
+        "y": 1350
+      }
+    },
+    {
+      "data": {
+        "id": "68",
+        "name": "#68 Toxic Moor",
+        "pages": [
+          87
+        ],
+        "status": "complete",
+        "notes": "",
+        "locked": "false",
+        "activePage": 87,
+        "imageUrl": "assets/scenarios/87.jpg"
+      },
+      "position": {
+        "x": 425,
+        "y": 1450
+      }
+    },
+    {
+      "data": {
+        "id": "69",
+        "name": "#69 Well of the Unfortunate",
+        "pages": [
+          88
+        ],
+        "status": "incomplete",
+        "notes": "",
+        "locked": "true"
+      },
+      "position": {
+        "x": 650,
+        "y": 1350
+      }
+    },
+    {
+      "data": {
+        "id": "70",
+        "name": "#70 Chained Isle",
+        "pages": [
+          89,
+          90
+        ],
+        "status": "incomplete",
+        "notes": "",
+        "locked": "true"
+      },
+      "position": {
+        "x": 650,
+        "y": 1450
+      }
+    },
+    {
+      "data": {
+        "id": "71",
+        "name": "#71 Windswept Highlands",
+        "pages": [
+          90,
+          91
+        ],
+        "status": "incomplete",
+        "notes": "",
+        "locked": "true"
+      },
+      "position": {
+        "x": 900,
+        "y": 1350
+      }
+    },
+    {
+      "data": {
+        "id": "72",
+        "name": "#72 Oozing Grove",
+        "pages": [
+          92
+        ],
+        "status": "incomplete",
+        "notes": "",
+        "locked": "true"
+      },
+      "position": {
+        "x": -1000,
+        "y": 1700
+      }
+    },
+    {
+      "data": {
+        "id": "73",
+        "name": "#73 Rockslide Ridge",
+        "pages": [
+          93
+        ],
+        "status": "incomplete",
+        "notes": "",
+        "locked": "true"
+      },
+      "position": {
+        "x": -1000,
+        "y": 1800
+      }
+    },
+    {
+      "data": {
+        "id": "76",
+        "name": "#76 Harrower Hive",
+        "pages": [
+          96,
+          97
+        ],
+        "status": "incomplete",
+        "notes": "",
+        "locked": "true"
+      },
+      "position": {
+        "x": -800,
+        "y": 1700
+      }
+    },
+    {
+      "data": {
+        "id": "77",
+        "name": "#77 Vault of Secrets",
+        "pages": [
+          97,
+          98
+        ],
+        "status": "incomplete",
+        "notes": "",
+        "locked": "true"
+      },
+      "position": {
+        "x": -800,
+        "y": 1800
+      }
+    },
+    {
+      "data": {
+        "id": "74",
+        "name": "#74 Merchant Ship",
+        "pages": [
+          94
+        ],
+        "status": "incomplete",
+        "notes": "",
+        "locked": "true"
+      },
+      "position": {
+        "x": -600,
+        "y": 1700
+      }
+    },
+    {
+      "data": {
+        "id": "75",
+        "name": "#75 Overgrown Graveyard",
+        "pages": [
+          95
+        ],
+        "status": "incomplete",
+        "notes": "",
+        "locked": "true"
+      },
+      "position": {
+        "x": -600,
+        "y": 1800
+      }
+    },
+    {
+      "data": {
+        "id": "78",
+        "name": "#78 Sacrifice Pit",
+        "pages": [
+          99
+        ],
+        "status": "incomplete",
+        "notes": "",
+        "locked": "true"
+      },
+      "position": {
+        "x": -400,
+        "y": 1700
+      }
+    },
+    {
+      "data": {
+        "id": "79",
+        "name": "#79 Lost Temple",
+        "pages": [
+          100,
+          101
+        ],
+        "status": "incomplete",
+        "notes": "",
+        "locked": "true"
+      },
+      "position": {
+        "x": -400,
+        "y": 1800
+      }
+    },
+    {
+      "data": {
+        "id": "81",
+        "name": "#81 Temple of the Eclipse",
+        "pages": [
+          103
+        ],
+        "status": "complete",
+        "notes": "",
+        "locked": "false",
+        "activePage": 103,
+        "imageUrl": "assets/scenarios/103.jpg"
+      },
+      "position": {
+        "x": -200,
+        "y": 1700
+      }
+    },
+    {
+      "data": {
+        "id": "83",
+        "name": "#83 Shadows Within",
+        "pages": [
+          105
+        ],
+        "status": "incomplete",
+        "notes": "",
+        "locked": "true"
+      },
+      "position": {
+        "x": -200,
+        "y": 1800
+      }
+    },
+    {
+      "data": {
+        "id": "84",
+        "name": "#84 Crystalline Cave",
+        "pages": [
+          106
+        ],
+        "status": "incomplete",
+        "notes": "",
+        "locked": "true",
+        "activePage": 106,
+        "imageUrl": "assets/scenarios/106.jpg"
+      },
+      "position": {
+        "x": 25,
+        "y": 1700
+      }
+    },
+    {
+      "data": {
+        "id": "86",
+        "name": "#86 Harried Village",
+        "pages": [
+          108,
+          109
+        ],
+        "status": "incomplete",
+        "notes": "",
+        "locked": "true",
+        "activePage": 108,
+        "imageUrl": "assets/scenarios/108.jpg"
+      },
+      "position": {
+        "x": 225,
+        "y": 1700
+      }
+    },
+    {
+      "data": {
+        "id": "87",
+        "name": "#87 Corrupted Cove",
+        "pages": [
+          110
+        ],
+        "status": "hidden",
+        "notes": ""
+      },
+      "position": {
+        "x": 225,
+        "y": 1800
+      }
+    },
+    {
+      "data": {
+        "id": "88",
+        "name": "#88 Plane of Water",
+        "pages": [
+          111
+        ],
+        "status": "incomplete",
+        "notes": "",
+        "locked": "true",
+        "activePage": 111,
+        "imageUrl": "assets/scenarios/111.jpg"
+      },
+      "position": {
+        "x": 25,
+        "y": 1800
+      }
+    },
+    {
+      "data": {
+        "id": "89",
+        "name": "#89 Syndicate Hideout",
+        "pages": [
+          112
+        ],
+        "status": "incomplete",
+        "notes": "",
+        "locked": "true"
+      },
+      "position": {
+        "x": 425,
+        "y": 1700
+      }
+    },
+    {
+      "data": {
+        "id": "91",
+        "name": "#91 Wild Melee",
+        "pages": [
+          114
+        ],
+        "status": "incomplete",
+        "notes": "",
+        "locked": "true"
+      },
+      "position": {
+        "x": 425,
+        "y": 1800
+      }
+    },
+    {
+      "data": {
+        "id": "92",
+        "name": "#92 Back Alley Brawl",
+        "pages": [
+          115
+        ],
+        "status": "incomplete",
+        "notes": "",
+        "locked": "true"
+      },
+      "position": {
+        "x": 625,
+        "y": 1700
+      }
+    },
+    {
+      "data": {
+        "id": "93",
+        "name": "#93 Sunken Vessel",
+        "pages": [
+          116
+        ],
+        "status": "complete",
+        "notes": "",
+        "locked": "false",
+        "activePage": 116,
+        "imageUrl": "assets/scenarios/116.jpg"
+      },
+      "position": {
+        "x": 625,
+        "y": 1800
+      }
+    },
+    {
+      "data": {
+        "id": "94",
+        "name": "#94 Vermling Nest",
+        "pages": [
+          117
+        ],
+        "status": "incomplete",
+        "notes": "",
+        "locked": "true"
+      },
+      "position": {
+        "x": 825,
+        "y": 1700
+      }
+    },
+    {
+      "data": {
+        "id": "95",
+        "name": "#95 Payment Due",
+        "pages": [
+          118,
+          119
+        ],
+        "status": "hidden",
+        "notes": ""
+      },
+      "position": {
+        "x": 825,
+        "y": 1800
+      }
+    },
+    {
+      "data": {
+        "id": "80",
+        "name": "#80 Vigil Keep",
+        "pages": [
+          101,
+          102
+        ],
+        "status": "incomplete",
+        "notes": "",
+        "locked": "true"
+      },
+      "position": {
+        "x": -1000,
+        "y": 1950
+      }
+    },
+    {
+      "data": {
+        "id": "82",
+        "name": "#82 Burning Mountain",
+        "pages": [
+          104
+        ],
+        "status": "complete",
+        "notes": "",
+        "locked": "true"
+      },
+      "position": {
+        "x": -800,
+        "y": 1950
+      }
+    },
+    {
+      "data": {
+        "id": "85",
+        "name": "#85 Sun Temple",
+        "pages": [
+          107,
+          108
+        ],
+        "status": "incomplete",
+        "notes": "",
+        "locked": "true"
+      },
+      "position": {
+        "x": -600,
+        "y": 1950
+      }
+    },
+    {
+      "data": {
+        "id": "90",
+        "name": "#90 Demonic Rift",
+        "pages": [
+          113
+        ],
+        "status": "incomplete",
+        "notes": "",
+        "locked": "true"
+      },
+      "position": {
+        "x": -400,
+        "y": 1950
+      }
+    }
+  ]
+}
