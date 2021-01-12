@@ -157,6 +157,5 @@ if __name__ == '__main__':
 	if len(sys.argv) != 1:
 		print "Usage: python console.py"
 		exit()
-	out = open(sys.argv[0])
 	console = Console()
 	console.start()
